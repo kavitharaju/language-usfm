@@ -9,7 +9,7 @@
     "node": "*"
   },
   "dependencies": {
-    "tree-sitter-usfm3": "3.0.0-alpha.2"
+    "tree-sitter-usfm3": "^3.0.0-alpha.2"
   },
   "bugs": {
     "url": "https://github.com/Bridgeconn/usfm-grammar/issues"
