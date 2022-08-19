@@ -23,6 +23,3 @@ folds: [
     }
 ]
 
-scopes:
-    'source_file': 'source.usfm3'
-
