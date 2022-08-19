@@ -1,6 +1,6 @@
 {
   "name": "language-usfm",
-  "version": "3.1.4",
+  "version": "3.1.5",
   "description": "USFM language support for the Atom editor via tree-sitter",
   "repository": "https://github.com/kavitharaju/language-usfm.git",
   "license": "MIT",
