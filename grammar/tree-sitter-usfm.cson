@@ -4,6 +4,25 @@ type: 'tree-sitter'
 parser: 'tree-sitter-usfm3'
 fileTypes: ['usfm', 'sfm']
 
+# comments:
+#    start: '--'
+
+folds: [
+    {
+        type: [
+            'chapter'
+            'paragraph'
+            'poetry'
+            'list'
+            'table'
+            'footnote'
+            'crossref'
+            'milestone'
+            'esb'
+        ]
+    }
+]
+
 scopes:
-    'source_file': 'source.usfm'
+    'source_file': 'source.usfm3'
 
