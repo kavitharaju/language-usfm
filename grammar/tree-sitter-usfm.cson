@@ -1,5 +1,5 @@
 name: 'USFM'
-scopeName: 'source.usfm'
+scopeName: 'source.usfm3'
 type: 'tree-sitter'
 parser: 'tree-sitter-usfm3'
 fileTypes: ['usfm', 'sfm']
