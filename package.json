@@ -1,6 +1,6 @@
 {
   "name": "language-usfm",
-  "version": "3.0.0-alpha.1",
+  "version": "3.0.0",
   "description": "USFM language support for the Atom editor via tree-sitter",
   "repository": {
     "type": "git",
@@ -24,7 +24,8 @@
     "atom"
   ],
   "author": "BCS Team <joel@bridgeconn.com> (https://bridgeconn.com/)",
-  "contributors": ["Kavitha Raju <kavitha.raju@bridgeconn.com> (https://github.com/kavitharaju)",
-    "Joel Mathew <joel@bridgeconn.com> (https://github.com/joelthe1)"]
-
+  "contributors": [
+    "Kavitha Raju <kavitha.raju@bridgeconn.com> (https://github.com/kavitharaju)",
+    "Joel Mathew <joel@bridgeconn.com> (https://github.com/joelthe1)"
+  ]
 }
